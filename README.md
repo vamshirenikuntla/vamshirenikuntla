@@ -1,7 +1,7 @@
 ## Hola, I'm vamshi Renikunla 👋
-### I'm a Full Stack Web-Developer, and Data science Aspirant !
+### I'm a student, and Data science Aspirant !
 
-- 🔭 I’m currently working on Web development projects
+- 🔭 I’m currently working on small scale Web development projects
 - 🌱 I’m currently learning Data Science !
 
 - 👯 I’m looking to collaborate with other Data Science Aspirants.
