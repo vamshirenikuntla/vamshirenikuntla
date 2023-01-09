@@ -1,5 +1,5 @@
 ## Hola, I'm vamshi Renikunla 👋
-### I'm a student, and Data science Aspirant !
+### I'm a working professional, and Data science Aspirant !
 
 - 🔭 I’m currently working on small scale Web development projects
 - 🌱 I’m currently learning Data Science !
