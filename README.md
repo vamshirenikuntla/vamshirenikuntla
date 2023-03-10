@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Science !
 
 - 👯 I’m looking to collaborate with other Data Science Aspirants.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 <br/>
 
