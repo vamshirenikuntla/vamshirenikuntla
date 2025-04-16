@@ -1,11 +1,11 @@
 ## Hola, I'm vamshi Renikunla 👋
 ### I'm a working professional, and Data science Aspirant !
 
-- 🔭 I’m currently working on small scale Web development projects
-- 🌱 I’m currently learning Data Science !
+- 🔭 I’m currently working as Data scientist !
+- 🌱 I’m currently learning GEN AI !
 
 - 👯 I’m looking to collaborate with other Data Science Aspirants.
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 <br/>
 
