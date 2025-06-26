@@ -1,7 +1,7 @@
 ## Hola, I'm vamshi Renikunla 👋
 ### I'm a working professional, and Data science Aspirant !
 
-- 🔭 I’m currently working as Data scientist !
+- 🔭 I’m currently working as CCAI Developer !
 - 🌱 I’m currently learning GEN AI !
 
 - 👯 I’m looking to collaborate with other Data Science Aspirants.
